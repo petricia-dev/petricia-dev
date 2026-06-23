@@ -41,7 +41,7 @@ Vue.js • Nuxt.js • JavaScript • TypeScript • Tailwind CSS • Bootstrap
 **Database:**
 MySQL • Redis
 
-**DevOps & Cloud**
+**DevOps & Cloud:**
 CI/CD • Docker • GitHub Actions • AWS S3 • Cloudflare • Firebase • Laravel Forge
 
 ## 💼 Experience
