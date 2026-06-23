@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 Senior Full-Stack Developer based in Kuala Lumpur, Malaysia.
 
-I build scalable SaaS platforms, enterprise applications, iGaming systems, and marketing technology solutions using Laravel and Vue.js.
+I build scalable SaaS platforms, iGaming systems, enterprise applications, and marketing technology solutions using Laravel and Vue.js.
 
 ## 🚀 What I Do
 
-- Backend architecture with Laravel & PHP
+- Backend architecture with PHP & Laravel
 - REST APIs, Webhooks & Integrations
 - Multi-tenant & Microservices systems
 - Vue.js & Nuxt.js applications
@@ -32,17 +32,17 @@ I build scalable SaaS platforms, enterprise applications, iGaming systems, and m
 
 ## 🛠 Tech Stack
 
-**Backend**
+**Backend:**
 Laravel • PHP • REST APIs • Webhooks • Microservices
 
-**Frontend**
-Vue.js • Nuxt.js • JavaScript • TypeScript • Tailwind CSS
+**Frontend:**
+Vue.js • Nuxt.js • JavaScript • TypeScript • Tailwind CSS • Bootstrap
 
-**Database**
+**Database:**
 MySQL • Redis
 
 **DevOps & Cloud**
-Docker • GitHub Actions • AWS S3 • Cloudflare • Firebase • Laravel Forge
+CI/CD • Docker • GitHub Actions • AWS S3 • Cloudflare • Firebase • Laravel Forge
 
 ## 💼 Experience
 
