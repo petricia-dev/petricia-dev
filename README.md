@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **petricia-dev/petricia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Petricia 👋
+
+Senior Full-Stack Developer based in Kuala Lumpur, Malaysia.
+
+I build scalable SaaS platforms, enterprise applications, iGaming systems, and marketing technology solutions using Laravel and Vue.js.
+
+## 🚀 What I Do
+
+- Backend architecture with Laravel & PHP
+- REST APIs, Webhooks & Integrations
+- Multi-tenant & Microservices systems
+- Vue.js & Nuxt.js applications
+- Performance optimization & scalability
+- Technical leadership & mentoring
+
+## 🛠 Tech Stack
+
+**Backend**
+Laravel • PHP • REST APIs • Webhooks • Microservices
+
+**Frontend**
+Vue.js • Nuxt.js • JavaScript • TypeScript • Tailwind CSS
+
+**Database**
+MySQL • Redis
+
+**DevOps & Cloud**
+Docker • GitHub Actions • AWS S3 • Cloudflare • Firebase • Laravel Forge
+
+## 💼 Experience
+
+**Senior Full-Stack Developer**  
+2022 – Present
+
+Building and leading scalable business applications, SaaS platforms, and real-time integrations.
+
